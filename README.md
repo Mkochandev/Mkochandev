@@ -10,17 +10,6 @@ Scribble, aynı markayı farklı sektörlerde yeniden hayal ettiğim tasarım ve
 
 Bugün bir streetwear markası, sıradaki projede bambaşka bir iş. Her yeni repo, Scribble’ın başka bir ihtimalini keşfediyor.
 
-### Scribble’ı keşfet
-
-<table><tr>
-<td width="44%" valign="middle"><a href="https://github.com/scribble-worlds"><img src="./assets/scribble-worlds.svg" width="340" alt="Scribble — tek marka, farklı dünyalar" /></a></td>
-<td width="56%" valign="middle">
-<sub>SCRIBBLE / TASARIM SERİSİ</sub>
-<p><strong>Tek marka. Farklı dünyalar.</strong></p>
-<p>Her repoda başka bir sektör. Aynı marka ve logo etrafında şekillenen web tasarımları ve dijital deneyimler.</p>
-<p><a href="https://github.com/scribble-worlds"><strong>Scribble’ı keşfet ↗</strong></a> &nbsp; / &nbsp; <a href="https://github.com/orgs/scribble-worlds/repositories">Tüm dünyalar ↗</a></p>
-</td></tr></table>
-
 ### Diğer projelerim
 
 <table>
