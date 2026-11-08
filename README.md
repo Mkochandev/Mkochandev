@@ -10,8 +10,25 @@ Scribble, aynı markayı farklı sektörlerde yeniden hayal ettiğim tasarım ve
 
 Bugün bir streetwear markası, sıradaki projede bambaşka bir iş. Her yeni repo, Scribble’ın başka bir ihtimalini keşfediyor.
 
-**001 / [Scribble — Streetwear ↗](https://github.com/Mkochandev/scribble-streetwear)**  
-Bu dünyada Scribble bir sokak giyimi markası. *Hazırlık aşamasında.*
+### 001 / Scribble dünyaları
+
+<table>
+<tr>
+<td width="38%" valign="top">
+<a href="https://mkochandev.github.io/scribble-streetwear/"><img src="./assets/streetwear-editorial.webp" width="280" alt="Scribble Streetwear — SNORES filminden sokak giyimi referansı" /></a>
+</td>
+<td width="62%" valign="middle">
+<sub>001 / SOKAK GİYİMİ &nbsp; · &nbsp; YAYINDA</sub>
+<h2>Scribble<br />Streetwear.</h2>
+<p><strong>Aynı markanın ilk dünyası.<br />Sokağın ritmiyle şekillenen bir mağaza.</strong></p>
+<p>Scribble bu kez bir streetwear markası. Siyah-beyaz bir görsel dil, büyük tipografi ve hareketli görüntülerle başlayan deneyim; koleksiyondan ürün detayına kadar aynı tavrı sürdürüyor.</p>
+<p><sub>TR / EN &nbsp; · &nbsp; KOLEKSİYON &nbsp; · &nbsp; ÜRÜN DETAYLARI &nbsp; · &nbsp; DEMO SEPETİ</sub></p>
+<br />
+<p><a href="https://mkochandev.github.io/scribble-streetwear/"><strong>Deneyimi keşfet ↗</strong></a> &nbsp; / &nbsp; <a href="https://github.com/Mkochandev/scribble-streetwear">Kaynak kodu ↗</a></p>
+<p><sub>KONSEPT PROJE / 2026<br />Film karesi: SNORES · <a href="https://mkochandev.github.io/scribble-streetwear/references.html">Tüm kaynaklar ↗</a></sub></p>
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -32,4 +49,4 @@ Bu dünyada Scribble bir sokak giyimi markası. *Hazırlık aşamasında.*
 
 ---
 
-<sub><strong>muham²ed</strong> &nbsp; / &nbsp; tasarım × kod &nbsp; / &nbsp; <a href="mailto:muhammedkochandev@gmail.com">iletişim ↗</a></sub>
+<sub><strong>muham²ed</strong> &nbsp; / &nbsp; tasarım × kod &nbsp; / &nbsp; <a href="https://github.com/Mkochandev">GitHub ↗</a></sub>
