@@ -10,27 +10,22 @@ Scribble, aynı markayı farklı sektörlerde yeniden hayal ettiğim tasarım ve
 
 Bugün bir streetwear markası, sıradaki projede bambaşka bir iş. Her yeni repo, Scribble’ın başka bir ihtimalini keşfediyor.
 
-### 001 / Scribble dünyaları
+### Scribble dünyaları
 
 <table>
 <tr>
-<td width="38%" valign="top">
-<a href="https://mkochandev.github.io/scribble-streetwear/"><img src="./assets/streetwear-editorial.webp" width="280" alt="Scribble Streetwear — SNORES filminden sokak giyimi referansı" /></a>
+<td width="44%" valign="middle">
+<a href="https://mkochandev.github.io/scribble-streetwear/"><img src="./assets/streetwear-project.svg" width="340" alt="Scribble / Streetwear — tasarım projesi 001" /></a>
 </td>
-<td width="62%" valign="middle">
-<sub>001 / SOKAK GİYİMİ &nbsp; · &nbsp; YAYINDA</sub>
-<h2>Scribble<br />Streetwear.</h2>
-<p><strong>Aynı markanın ilk dünyası.<br />Sokağın ritmiyle şekillenen bir mağaza.</strong></p>
-<p>Scribble bu kez bir streetwear markası. Siyah-beyaz bir görsel dil, büyük tipografi ve hareketli görüntülerle başlayan deneyim; koleksiyondan ürün detayına kadar aynı tavrı sürdürüyor.</p>
-<p><sub>TR / EN &nbsp; · &nbsp; KOLEKSİYON &nbsp; · &nbsp; ÜRÜN DETAYLARI &nbsp; · &nbsp; DEMO SEPETİ</sub></p>
-<br />
-<p><a href="https://mkochandev.github.io/scribble-streetwear/"><strong>Deneyimi keşfet ↗</strong></a> &nbsp; / &nbsp; <a href="https://github.com/Mkochandev/scribble-streetwear">Kaynak kodu ↗</a></p>
-<p><sub>KONSEPT PROJE / 2026<br />Film karesi: SNORES · <a href="https://mkochandev.github.io/scribble-streetwear/references.html">Tüm kaynaklar ↗</a></sub></p>
+<td width="56%" valign="middle">
+<sub>001 / TASARIM PROJESİ &nbsp; · &nbsp; YAYINDA</sub>
+<p><strong>Bir marka, yeni bir dünya.</strong></p>
+<p>Scribble’ın sokak giyimi dünyası. Marka kimliğinden mağaza deneyimine uzanan, Türkçe ve İngilizce bir web tasarımı.</p>
+<p><sub>GÖRSEL KİMLİK &nbsp; / &nbsp; ARAYÜZ &nbsp; / &nbsp; GELİŞTİRME</sub></p>
+<a href="https://mkochandev.github.io/scribble-streetwear/"><strong>Projeyi keşfet ↗</strong></a> &nbsp; / &nbsp; <a href="https://github.com/Mkochandev/scribble-streetwear">Kaynak kodu ↗</a>
 </td>
 </tr>
 </table>
-
-<br />
 
 ### Diğer projelerim
 
