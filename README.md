@@ -1,6 +1,6 @@
-<a href="https://mkochandev.github.io/"><img src="./assets/scribble-brand.svg" width="100%" alt="Scribble — tasarım × kod" /></a>
+<a href="https://github.com/scribble-worlds"><img src="./assets/scribble-brand.svg" width="100%" alt="Scribble — tasarım × kod" /></a>
 
-<p align="right"><a href="https://github.com/scribble-worlds">Scribble’ı keşfet ↗</a> &nbsp; / &nbsp; <a href="https://mkochandev.github.io/">Portföy ↗</a></p>
+<p align="right"><a href="https://mkochandev.github.io/">Scribble’ı keşfet ↗</a> &nbsp; </p>
 
 ### Scribble nedir?
 
