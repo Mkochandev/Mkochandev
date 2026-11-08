@@ -4,6 +4,18 @@
 
 **Tek marka. Farklı dünyalar.**
 
+Scribble, tek bir markayı farklı sektörlerde yeniden hayal eden bir tasarım serisi. İsim ve logo aynı kalır; her projede yeni bir dünya kurulur.
+
+### Scribble dünyaları
+
+<table><tr>
+<td width="48%" valign="middle"><a href="https://scribble-worlds.github.io/scribble-streetwear/"><img src="./assets/001-cover.webp" width="360" alt="001 — Scribble" /></a></td>
+<td width="52%" valign="middle">
+<h2>001</h2>
+<p>Streetwear giyim markası konseptinde bir web tasarımı.</p>
+<p><a href="https://scribble-worlds.github.io/scribble-streetwear/"><strong>Projeyi keşfet ↗</strong></a> &nbsp; / &nbsp; <a href="https://github.com/scribble-worlds/scribble-streetwear">Kaynak kodu ↗</a></p>
+</td></tr></table>
+
 ### Diğer projelerim
 
 <table>
