@@ -26,5 +26,5 @@ Bugün bir streetwear markası, sıradaki projede bambaşka bir iş. Her yeni re
 <br />
 
 ---
-
+**Erken form tutan, erken dağılır.**
 <sub><strong>muham²ed</strong> &nbsp; / &nbsp; tasarım × kod &nbsp; / &nbsp; <a href="https://github.com/Mkochandev">GitHub ↗</a></sub>
