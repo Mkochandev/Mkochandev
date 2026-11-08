@@ -2,7 +2,20 @@
 
 <p align="right"><a href="https://github.com/search?q=user%3AMkochandev+scribble&amp;type=repositories">GitHub’da Scribble ara ↗</a> &nbsp; / &nbsp; <a href="https://mkochandev.github.io/">Portföy ↗</a></p>
 
-### Projeler
+### Scribble nedir?
+
+**Tek marka. Farklı dünyalar.**
+
+Scribble, aynı markayı farklı sektörlerde yeniden hayal ettiğim tasarım ve geliştirme projesi. Her repoda Scribble, o sektörün gerçek bir markasıymış gibi ele alınıyor. Logo aynı kalıyor; görsel dil, içerik ve deneyim o dünyaya göre değişiyor.
+
+Bugün bir streetwear markası, sıradaki projede bambaşka bir iş. Her yeni repo, Scribble’ın başka bir ihtimalini keşfediyor.
+
+**001 / [Scribble — Streetwear ↗](https://github.com/Mkochandev/scribble-streetwear)**  
+Bu dünyada Scribble bir sokak giyimi markası. *Hazırlık aşamasında.*
+
+<br />
+
+### Diğer projelerim
 
 <table>
 <tr>
