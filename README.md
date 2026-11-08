@@ -1,6 +1,6 @@
 <a href="https://mkochandev.github.io/"><img src="./assets/scribble-brand.svg" width="100%" alt="Scribble — tasarım × kod" /></a>
 
-<p align="right"><a href="https://github.com/search?q=user%3AMkochandev+scribble&amp;type=repositories">GitHub’da Scribble ara ↗</a> &nbsp; / &nbsp; <a href="https://mkochandev.github.io/">Portföy ↗</a></p>
+<p align="right"><a href="https://github.com/scribble-worlds">Scribble’ı keşfet ↗</a> &nbsp; / &nbsp; <a href="https://mkochandev.github.io/">Portföy ↗</a></p>
 
 ### Scribble nedir?
 
@@ -10,22 +10,16 @@ Scribble, aynı markayı farklı sektörlerde yeniden hayal ettiğim tasarım ve
 
 Bugün bir streetwear markası, sıradaki projede bambaşka bir iş. Her yeni repo, Scribble’ın başka bir ihtimalini keşfediyor.
 
-### Scribble dünyaları
+### Scribble’ı keşfet
 
-<table>
-<tr>
-<td width="44%" valign="middle">
-<a href="https://mkochandev.github.io/scribble-streetwear/"><img src="./assets/streetwear-project.svg" width="340" alt="Scribble / Streetwear — tasarım projesi 001" /></a>
-</td>
+<table><tr>
+<td width="44%" valign="middle"><a href="https://github.com/scribble-worlds"><img src="./assets/scribble-worlds.svg" width="340" alt="Scribble — tek marka, farklı dünyalar" /></a></td>
 <td width="56%" valign="middle">
-<sub>001 / TASARIM PROJESİ &nbsp; · &nbsp; YAYINDA</sub>
-<p><strong>Bir marka, yeni bir dünya.</strong></p>
-<p>Scribble’ın sokak giyimi dünyası. Marka kimliğinden mağaza deneyimine uzanan, Türkçe ve İngilizce bir web tasarımı.</p>
-<p><sub>GÖRSEL KİMLİK &nbsp; / &nbsp; ARAYÜZ &nbsp; / &nbsp; GELİŞTİRME</sub></p>
-<a href="https://mkochandev.github.io/scribble-streetwear/"><strong>Projeyi keşfet ↗</strong></a> &nbsp; / &nbsp; <a href="https://github.com/Mkochandev/scribble-streetwear">Kaynak kodu ↗</a>
-</td>
-</tr>
-</table>
+<sub>SCRIBBLE / TASARIM SERİSİ</sub>
+<p><strong>Tek marka. Farklı dünyalar.</strong></p>
+<p>Her repoda başka bir sektör. Aynı marka ve logo etrafında şekillenen web tasarımları ve dijital deneyimler.</p>
+<p><a href="https://github.com/scribble-worlds"><strong>Scribble’ı keşfet ↗</strong></a> &nbsp; / &nbsp; <a href="https://github.com/orgs/scribble-worlds/repositories">Tüm dünyalar ↗</a></p>
+</td></tr></table>
 
 ### Diğer projelerim
 
