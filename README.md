@@ -2,13 +2,7 @@
 
 <p align="right"><a href="https://github.com/scribble-worlds">Scribble’ı keşfet ↗</a> &nbsp; / &nbsp; <a href="https://mkochandev.github.io/">Portföy ↗</a></p>
 
-### Scribble nedir?
-
 **Tek marka. Farklı dünyalar.**
-
-Scribble, aynı markayı farklı sektörlerde yeniden hayal ettiğim tasarım ve geliştirme projesi. Her repoda Scribble, o sektörün gerçek bir markasıymış gibi ele alınıyor. Logo aynı kalıyor; görsel dil, içerik ve deneyim o dünyaya göre değişiyor.
-
-Bugün bir streetwear markası, sıradaki projede bambaşka bir iş. Her yeni repo, Scribble’ın başka bir ihtimalini keşfediyor.
 
 ### Diğer projelerim
 
