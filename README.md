@@ -1,37 +1,56 @@
-# Merhaba, ben Muhammed 👋
+<img src="./assets/editorial-cover.svg" width="100%" alt="Muhammed Koçhan — Taste. Then code. Digital products, distinct identities, working websites." />
 
-**Full-stack geliştirici** · Laravel · React Native · Node.js
+<br />
 
-Küçük işletmelerin kâğıtta, Excel'de ya da akılda tuttuğu işleri web ve mobil uygulamaya dönüştürüyorum. Veritabanı tasarımından yönetim paneline, abonelik ve ödeme akışından tanıtım sitesine kadar ürünü uçtan uca kuruyorum.
+<p>I build web and mobile products, and give them a visual identity worth opening twice.<br />
+From the database to the last pixel. Based in Türkiye, building for the web.</p>
 
 <p>
-  <a href="https://mkochandev.github.io/"><img src="https://img.shields.io/badge/Portföyü_incele-mkochandev.github.io-1D4ED8?style=for-the-badge" alt="Portföy"></a>
+<a href="https://mkochandev.github.io/">Portfolio ↗</a> &nbsp; / &nbsp;
+<a href="https://gaziustam.com/">GaziUstam ↗</a> &nbsp; / &nbsp;
+<a href="mailto:muhammedkochandev@gmail.com">Start a conversation ↗</a>
 </p>
 
-## Projeler
+<br />
 
-| Proje | Durum | Ne yapıyor | Teknoloji |
-|---|---|---|---|
-| **[Gazi Ustam](https://gaziustam.com/)**<br><sub>[panel](https://github.com/Mkochandev/stok-takip) · [site](https://github.com/Mkochandev/gaziustam-website)</sub> | 🟢 Canlıda | Usta takip ve şantiye yönetimi: puantaj, otomatik hakediş, iş bazlı gelir-gider, çok kiracılı abonelik sistemi | Laravel 12, Tailwind, MySQL |
-| **[Abonelik Takip](https://github.com/Mkochandev/abonelik-takip-app)** | 🟡 Yayın öncesi | Dijital abonelikleri tek ekranda toplayan mobil uygulama; fiyatlar her gece yapay zekâ ile otomatik güncelleniyor | Expo, React Native, Express, Supabase, RevenueCat, Claude API |
-| **[E-Pin Store](https://github.com/Mkochandev/e-pin-store)** | 🔵 Tamamlandı | Platforma göre oyun kodu satan mağaza; kod stoğu, sipariş, istek listesi ve yönetim paneli | Laravel 8, MySQL |
-| **[Vault-Tec Sinema](https://github.com/Mkochandev/cinema-manager)** | 🟡 Son aşamada | Film, seans ve koltuk seçimli bilet rezervasyon sistemi | Laravel 10, MySQL |
+### Selected work / ongoing explorations
 
-## Kullandığım teknolojiler
+<table>
+<tr>
+<td width="33%" valign="top"><a href="#scribble--a-series-of-digital-first-impressions"><img src="./assets/scribble-card.svg" width="100%" alt="Scribble — sector-specific website concepts. First edition: Streetwear." /></a></td>
+<td width="33%" valign="top"><a href="https://eriste.app/"><img src="./assets/eriste-card.svg" width="100%" alt="Erişte — subscription tracking. Explore the website." /></a></td>
+<td width="33%" valign="top"><a href="https://gaziustam.com/"><img src="./assets/gaziustam-card.svg" width="100%" alt="GaziUstam — software and consulting. Explore the studio." /></a></td>
+</tr>
+<tr>
+<td valign="top"><strong>Scribble</strong><br /><sub>Independent website concepts.<br />Edition 001: Streetwear — in preparation.</sub></td>
+<td valign="top"><strong>Erişte</strong><br /><sub>A clearer view of recurring subscriptions.<br /><a href="https://github.com/Mkochandev/eriste-web">Website source ↗</a></sub></td>
+<td valign="top"><strong>GaziUstam</strong><br /><sub>Web, mobile and software consulting.<br /><a href="https://github.com/Mkochandev/Gaziustam-Yazilim">Website source ↗</a></sub></td>
+</tr>
+</table>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br />
 
-## İletişim
+### Scribble / a series of digital first impressions
 
-Freelance projelere, yarı zamanlı ve tam zamanlı pozisyonlara açığım.
+One industry. One distinct direction. One public repository.
 
-📫 **muhammedkochandev@gmail.com** · 🌐 [mkochandev.github.io](https://mkochandev.github.io/)
+**Scribble** is my ongoing series of sector-specific website concepts: built to browse, shared as portfolio work, and made in Turkish and English. Each edition gets its own visual world.
+
+**001 — Scribble · Streetwear**  
+A boutique clothing website concept. Project setup is in preparation; the storefront design comes next.
+
+<sub>Repository naming: `scribble-[industry]` · Presentation: `Scribble — [Industry]` · All Scribble editions are concept demos.</sub>
+
+<br />
+
+### Under the surface
+
+**Web & interfaces** &nbsp; HTML / CSS / JavaScript / TypeScript / Tailwind / Astro  
+**Applications & APIs** &nbsp; Laravel / PHP / Node.js / Express / React Native / Expo  
+**Data** &nbsp; MySQL / PostgreSQL / Supabase
+
+<br />
+
+---
+
+<sub>MUHAMMED KOÇHAN &nbsp; / &nbsp; INDEPENDENT DEVELOPER & DESIGNER &nbsp; / &nbsp; <a href="mailto:muhammedkochandev@gmail.com">LET’S MAKE SOMETHING WITH CHARACTER ↗</a></sub>
