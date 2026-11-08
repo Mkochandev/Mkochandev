@@ -1,68 +1,30 @@
-<img src="./assets/profil-kapak.svg" width="100%" alt="Muhammed Koçhan — Yazılım, tasarım, ürün." />
+<a href="https://mkochandev.github.io/"><img src="./assets/muham2ed-cover.jpg" width="100%" alt="muham²ed — tasarım × kod" /></a>
+
+<p align="right"><a href="https://mkochandev.github.io/">Portföy ↗</a> &nbsp; / &nbsp; <a href="mailto:muhammedkochandev@gmail.com">Konuşalım ↗</a></p>
+
+### Seçili işler
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://eriste.app/"><img src="https://raw.githubusercontent.com/Mkochandev/eriste-web/main/docs/marka/banner.png" width="100%" alt="Erişte — özgün marka görseli" /></a></td>
+<td width="50%" valign="top"><a href="https://gaziustam.com/"><img src="https://raw.githubusercontent.com/Mkochandev/Gaziustam-Yazilim/main/docs/qa/home-1440.png" width="100%" alt="GaziUstam — gerçek site görüntüsü" /></a></td>
+</tr>
+<tr>
+<td><strong>Erişte</strong><br /><br /><a href="https://eriste.app/">Siteyi aç ↗</a> &nbsp; · &nbsp; <a href="https://github.com/Mkochandev/eriste-web">Kaynak kodu ↗</a></td>
+<td><strong>GaziUstam</strong><br /><br /><a href="https://gaziustam.com/">Siteyi aç ↗</a> &nbsp; · &nbsp; <a href="https://github.com/Mkochandev/Gaziustam-Yazilim">Kaynak kodu ↗</a></td>
+</tr>
+</table>
 
 <br />
 
-Web siteleri ve mobil uygulamalar geliştiriyorum. Arayüzü, görsel kimliği ve arkasındaki sistemi birlikte düşünüyorum. Burada kendi ürünlerim ve tasarım çalışmalarım var.
+<a href="https://mkochandev.github.io/#scribble"><img src="./assets/scribble-brand.svg" width="100%" alt="Scribble — muham²ed’in tasarım serisi" /></a>
 
-[**Portföy ↗**](https://mkochandev.github.io/) &nbsp; / &nbsp; [**Bir proje konuşalım ↗**](mailto:muhammedkochandev@gmail.com)
+<p><a href="https://github.com/search?q=user%3AMkochandev+scribble&amp;type=repositories">GitHub’da Scribble ara ↗</a> &nbsp; / &nbsp; <a href="https://mkochandev.github.io/#scribble">Seriyi incele ↗</a></p>
 
-<br />
+<sub>001 / Scribble — Streetwear · Hazırlık aşamasında.</sub>
 
-## 01 / Erişte
-
-**Bütün aboneliklerin tek kâsede.**
-
-Dijital abonelikleri ve düzenli giderleri bir arada tutan mobil uygulama. Aşağıdaki görsel, projenin kendi marka çalışmasından.
-
-<a href="https://eriste.app/"><img src="https://github.com/Mkochandev/eriste-web/blob/main/docs/marka/banner.png?raw=true" width="100%" alt="Erişte’nin gerçek tanıtım görseli: logosu, Kıvırık maskotu ve abonelik takibi uygulaması." /></a>
-
-### [Siteyi aç ↗](https://eriste.app/) &nbsp; · &nbsp; [Kaynak kodu ↗](https://github.com/Mkochandev/eriste-web)
-
-<sub>Kaynak bağlantısı, tanıtım sitesinin herkese açık reposuna gider.</sub>
-
-<br />
-
-## 02 / GaziUstam
-
-**İşletmeler için yazılım ve dijital tasarım.**
-
-Web, mobil uygulama ve yapay zekâ otomasyonu üzerine ajans ve danışmanlık projem. Aşağıda sitenin gerçek ekran görüntüsü bulunuyor.
-
-<a href="https://gaziustam.com/"><img src="https://github.com/Mkochandev/Gaziustam-Yazilim/blob/main/docs/qa/home-1440.png?raw=true" width="100%" alt="GaziUstam’ın gerçek ana sayfa ekran görüntüsü: açık zemin, mavi tipografi ve krom görsel." /></a>
-
-### [Siteyi aç ↗](https://gaziustam.com/) &nbsp; · &nbsp; [Kaynak kodu ↗](https://github.com/Mkochandev/Gaziustam-Yazilim)
-
-<br />
-
-## 03 / Scribble
-
-**Her sektöre başka bir karakter.**
-
-Farklı sektörler için tasarlayıp kodladığım, tarayıcıda gezilebilen konsept siteler serisi. Her çalışma ayrı, herkese açık bir repoda; Türkçe ve İngilizce hazırlanacak.
-
-| İlk çalışma | Alan | Durum |
-| :--- | :--- | :--- |
-| **Scribble — Streetwear** | Sokak giyimi / butik giyim markası | Hazırlık aşamasında |
-
-<sub>Seri: `Scribble` · Repo düzeni: `scribble-[alan]` · İlk repo adı: `scribble-streetwear`<br />
-Scribble çalışmaları portföy amaçlı tasarım demolarıdır.</sub>
-
-<br />
-
-<details>
-<summary><strong>Kullandığım araçlar</strong></summary>
-
-<br />
-
-**Arayüz:** HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Astro  
-**Uygulama ve sunucu:** PHP, Laravel, Node.js, Express, React Native, Expo  
-**Veri:** MySQL, PostgreSQL, Supabase
-
-</details>
-
-<br />
+<br /><br />
 
 ---
 
-**Birlikte bir şey üretelim.**  
-[muhammedkochandev@gmail.com](mailto:muhammedkochandev@gmail.com) &nbsp; / &nbsp; [gaziustam.com](https://gaziustam.com/)
+<sub><strong>muham²ed</strong> &nbsp; / &nbsp; tasarım × kod &nbsp; / &nbsp; <a href="mailto:muhammedkochandev@gmail.com">iletişim ↗</a></sub>
