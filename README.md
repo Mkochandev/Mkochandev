@@ -23,7 +23,7 @@ Bugün bir streetwear markası, sıradaki projede bambaşka bir iş. Her yeni re
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://cobweb.kochanmuhammed5.workers.dev/"><img src="https://cobweb.kochanmuhammed5.workers.dev/img/icon.png" width="56" height="56" alt="Cobweb ikonu" /></a><br /><strong>Cobweb — Kapıyı Açma</strong><br /><sub>Itsy ağını örüyor. Kapı kapalı kaldıkça dünyası büyüyor. iPhone için, yakında.</sub><br /><br /><a href="https://cobweb.kochanmuhammed5.workers.dev/">Siteyi aç ↗</a> &nbsp; · &nbsp; <a href="https://github.com/Mkochandev/cobweb-site">Proje reposu ↗</a> &nbsp; · &nbsp; <sub>Kaynak kodu private</sub>
+<a href="https://cobweb.kochanmuhammed5.workers.dev/"><img src="./assets/cobweb-icon.png" width="56" height="56" alt="Cobweb ikonu" /></a><br /><strong>Cobweb — Kapıyı Açma</strong><br /><sub>Itsy ağını örüyor. Kapı kapalı kaldıkça dünyası büyüyor. iPhone için, yakında.</sub><br /><br /><a href="https://cobweb.kochanmuhammed5.workers.dev/">Siteyi aç ↗</a> &nbsp; · &nbsp; <a href="https://github.com/Mkochandev/cobweb-site">Proje reposu ↗</a> &nbsp; · &nbsp; <sub>Kaynak kodu private</sub>
 </td>
 </tr>
 </table>
